@@ -1,2 +1,5 @@
 # BKIndrani95-Smart-Predictive-Modeling-for-Rental-Property-Prices
 The goal of this project is to develop a data-driven model that predicts the rental price of residential properties based on relevant features. By analyzing historical rental data and property attributes, the model aims to provide accurate and reliable rent predictions. In the real estate industry, determining the appropriate rental price for a property is crucial for property owners, tenants, and property management companies. Accurate rent predictions can help landlords set competitive prices, tenants make informed rental decisions, and property management companies optimize their portfolio management.
+Using Python tool data preprocessing and data visualization was done. 
+Machine learning models Random Forest Regerssion, Linear Regression and Decision Tree Regression were used to predict Rent of the house. Rent is dependant variabe of other factors such as amenities, location, water facility, building type, property type, property age and activation period. 
+# Python, Seaborn, Matplotlib, Machine Learning, Random Forest Regression, Linear Regression, Decision Tree Regression
